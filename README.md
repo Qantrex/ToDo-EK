@@ -5,7 +5,7 @@
 Follow these steps to download and run the **Task Manager Application**:
 
 1. **Visit the GitHub Repository**
-   - Go to the official repository: [Task Manager App Repository](https://github.com/Qantrex).
+   - Go to the official repository: [Task Manager App Repository](https://github.com/Qantrex/ToDo-EK).
 
 2. **Download the Executable**
    - Navigate to the `Releases` section on the repository's homepage.
